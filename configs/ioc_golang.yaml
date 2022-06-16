@@ -1,0 +1,5 @@
+autowire:
+  singleton:
+    github.com/alibaba/helloiocgo/cmd/app.App:
+      param:
+       name: "helloiocgo"
